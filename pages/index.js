@@ -3,7 +3,7 @@ import { useState } from "react";
 function Home() {
     return (
         <div>
-            <h1>Home - Teste Prod</h1>
+            <h1>Página inicial - Branch Teste</h1>
         </div>
     )
 }
